@@ -3,6 +3,7 @@
 A machine learning project to classify news articles as **Real** or **Fake** using NLP techniques.  
 Built with Logistic Regression and a Bidirectional LSTM, with SHAP explainability.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrxyash/fake-news-detector/blob/main/notebooks/FakeNewsDetector_Colab.ipynb)
 ---
 
 ## Dataset
